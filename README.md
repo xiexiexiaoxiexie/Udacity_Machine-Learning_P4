@@ -5,6 +5,7 @@
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 ###扩展阅读
+
 1.如何使用opencv导入训练好的object detection 模型：
 http://www.manongjc.com/article/25473.html
 2.如何用opencv做人脸检测：
@@ -41,6 +42,7 @@ https://www.cnblogs.com/bonelee/p/8972139.html
 https://www.ams.giti.waseda.ac.jp/data/pdf-files/2017_IEVC_watabe.pdf
 
 ###项目简介
+
 使用迁移学习构建卷积神经网络来分类不同种类的狗狗
 
 ## Project Overview
