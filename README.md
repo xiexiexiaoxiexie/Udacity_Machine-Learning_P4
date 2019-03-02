@@ -4,7 +4,7 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
-###扩展阅读
+### 扩展阅读
 
 1.如何使用opencv导入训练好的object detection 模型：
 http://www.manongjc.com/article/25473.html
