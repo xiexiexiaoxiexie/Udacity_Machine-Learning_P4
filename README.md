@@ -41,7 +41,7 @@ https://www.cnblogs.com/bonelee/p/8972139.html
 17.对抗生成网络对数据进行扩充
 https://www.ams.giti.waseda.ac.jp/data/pdf-files/2017_IEVC_watabe.pdf
 
-###项目简介
+### 项目简介
 
 使用迁移学习构建卷积神经网络来分类不同种类的狗狗
 
