@@ -4,6 +4,44 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+###扩展阅读
+1.如何使用opencv导入训练好的object detection 模型：
+http://www.manongjc.com/article/25473.html
+2.如何用opencv做人脸检测：
+https://my.oschina.net/chinesezhx/blog/520917
+3.什么是cascade classifier和haar-like feature：
+https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html
+4.opencv的detectmultiscale函数：
+https://www.cnblogs.com/lyx2018/p/7073025.html
+5.人脸检测历史及各种方法：
+https://zhuanlan.zhihu.com/p/25335957
+6.迁移学习资料汇总：
+https://zhuanlan.zhihu.com/p/28792291
+7.牛津 VGG 模型
+http://www.robots.ox.ac.uk/~vgg/research/very_deep/
+8.谷歌 inception 模型
+https://github.com/tensorflow/models/tree/master/inception
+9.微软 ResNet 模型
+https://github.com/KaimingHe/deep-residual-networks
+10.谷歌 Word2vec 模型
+https://code.google.com/archive/p/word2vec/
+11.斯坦福 GloVe 模型
+https://nlp.stanford.edu/projects/glove/
+12.Caffe 模型库 Model Zoo
+https://github.com/BVLC/caffe/wiki/Model-Zoo
+13.无需数学背景，读懂 ResNet、Inception 和 Xception 三大变革性架构
+https://www.jiqizhixin.com/articles/2017-08-19-4
+14.Building powerful image classification models using very little data
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+15.optimizers:
+http://ruder.io/optimizing-gradient-descent/
+16.理解各种各样的CNN架构
+https://www.cnblogs.com/bonelee/p/8972139.html
+17.对抗生成网络对数据进行扩充
+https://www.ams.giti.waseda.ac.jp/data/pdf-files/2017_IEVC_watabe.pdf
+
+###项目简介
+使用迁移学习构建卷积神经网络来分类不同种类的狗狗
 
 ## Project Overview
 
